@@ -1,10 +1,10 @@
-# javascript-interview-questions
+# frontend-interview-prep
 
-- Difference between call, bind & apply methods? [Code Reference](./Call,%20Bind%20&%20Apply/)
-- Implement stack data structure using JS concept.[Solution](./Stack_DS/)
-- What is Prototype? [Reference](./Prototypal_Inheritance/)
-- Implement Debounce & Throttling function and state the difference between them? [Solution](./Debounce%20&%20Throttling/)
-- Explain Generators Functions [Reference](./Generator_Function/)
+- Difference between call, bind & apply methods? [Code Reference](./javascript/polyfills/call-bind-apply/)
+- Implement stack data structure using JS concept.[Solution](./dsa/stack-ds/)
+- What is Prototype? [Reference](./javascript/fundamentals/prototypal-inheritance/)
+- Implement Debounce & Throttling function and state the difference between them? [Solution](./javascript/functional-patterns/debounce-throttling/)
+- Explain Generators Functions [Reference](./javascript/fundamentals/generator-functions/)
 - Explain Memoization?
 - What are Service Workers?
 - Explain Different Caching Techniques/mechanisms?
@@ -22,4 +22,4 @@
 
   ## DSA Interview Questions
 
-  [Please Refer this link](./DSA%20Questions/DSA_Questions.md)
+  [Please Refer this link](./dsa/dsa-questions.md)

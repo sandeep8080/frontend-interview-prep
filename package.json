@@ -1,5 +1,5 @@
 {
-  "name": "javascript-interview-questions",
+  "name": "frontend-interview-prep",
   "version": "0.1.0",
   "description": "A collection of javascript interview question to excel useful concepts of javascript",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeep8080/javascript-interview-questions.git"
+    "url": "https://github.com/sandeep8080/frontend-interview-prep.git"
   },
   "author": "Sandeep Garg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sandeep8080/javascript-interview-questions/issues"
+    "url": "https://github.com/sandeep8080/frontend-interview-prep/issues"
   },
-  "homepage": "https://github.com/sandeep8080/javascript-interview-questions#readme",
+  "homepage": "https://github.com/sandeep8080/frontend-interview-prep#readme",
   "dependencies": {
     "husky": "^9.0.11",
     "prettier": "^3.2.5",

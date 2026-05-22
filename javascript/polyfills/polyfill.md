@@ -4,9 +4,9 @@
 
 - Write a polyfill of the below:
 
-1. map [Solution](./mapPolyfill.js)
-2. filter
-3. reduce
+1. map [Solution](./map-polyfill.js)
+2. filter [Solution](./filter-polyfill.js)
+3. reduce [Solution](./reduce-polyfill.js)
 
 - Write the polyfill for reduce with the below input & output:
 
