@@ -1,7 +1,15 @@
 {
   "name": "frontend-interview-prep",
   "version": "0.1.0",
-  "description": "A collection of javascript interview question to excel useful concepts of javascript",
+  "description": "A curated collection of Frontend and JavaScript interview preparation resources including fundamentals, DSA, polyfills, and functional patterns.",
+  "keywords": [
+    "frontend",
+    "interview-prep",
+    "javascript",
+    "dsa",
+    "polyfills",
+    "design-patterns"
+  ],
   "main": "index.js",
   "scripts": {
     "prepare": "husky"
