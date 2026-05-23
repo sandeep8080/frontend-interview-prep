@@ -29,7 +29,8 @@ console.log(person.company); // Publicis Sapient
 // person ---> employmentDetails ---> Object.Prototype ---> null
 ```
 
-## Difference between prototype Vs \***\*proto\*\***
+
+## `prototype` vs `__proto__`
 
 - For Constructor function (inbuilt or declared Explicitly) or any normal function → **prototype works**
 - For any variable/instance ⇒ \***\*proto\*\***
