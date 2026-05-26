@@ -4,7 +4,9 @@
 ```
  class declaration
         |_ Creates functions (constructor, methods, static methods)
-        |_ non-static methods - attach to class prototype
+        |_ non-static 
+                |_ methods - attach to class prototype
+                |_ class field - directly attach to instance
         |_ static methods - attach to class
 ```
 
